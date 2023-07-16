@@ -1,4 +1,4 @@
-//all the permutation of a string.
+//all the subsequence of a string.
 #include <iostream>
 using namespace std;
 void subsequence(char inp[100] , int i , char out[100] , int j)
